@@ -5,7 +5,7 @@
   justify-content: center;
 }
 .outer-box {
-height: 100vh;
+height: 97vh;
 width: 20em;
 background: darkgray;
 }
@@ -15,23 +15,23 @@ background: darkgray;
   background: lightgray;
   display: flex;
   flex-wrap: wrap;
-  justify-content:space-around;
+  align-content: stretch;
 }
 .input-box{
-  height: 6vh;
-  width: 12.6em;
-  font-size: 25px;
+  height: 12vh;
+  width: 9em;
+  font-size: 35px;
 }
 .numbers{
-  height: 100px;
-  width: 100px;
+  height: 90px;
+  width: 106.6px;
   font-size: 30px;
 /*display: flex;*/
 }
 
 .special-buttons{
-  height: 100px;
-  width: 100px;
+  height: 90px;
+  width: 106.6px;
   font-size: 20px;
 }
 
